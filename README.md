@@ -4,6 +4,11 @@ Hello, i'm Gabriele, a student at second-last year at ITIS Magistri Cumacini".
 My favourite fields of computer science are web back-end/API and  
 mobile development on iOS platforms.
 
+
+[![](https://raw.githubusercontent.com/gabrieleforner/gabrieleforner/gabrieleforner-patch-1/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gabrieleforner/gabrieleforner/gabrieleforner-patch-1/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gabrieleforner/gabrieleforner/gabrieleforner-patch-1/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gabrieleforner/gabrieleforner/gabrieleforner-patch-1/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gabrieleforner/gabrieleforner/gabrieleforner-patch-1/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 # 💻 Tech Skills
 ##  Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
